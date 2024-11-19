@@ -1,0 +1,18 @@
+.education_tasks_card{
+    width: 650px;
+}
+.education_tasks_card_body .circle_div{
+    border: 1px solid var(--orange);
+    border-radius: 50%;
+    padding: 5px;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--orange);
+}
+
+.education_tasks_card_body .due_date_para{
+    color: var(--orange);
+}

@@ -1,0 +1,7 @@
+.widget_card{
+width: 300px;
+}
+
+.widget_content_bottom_div span{
+    color: var(--green);
+}

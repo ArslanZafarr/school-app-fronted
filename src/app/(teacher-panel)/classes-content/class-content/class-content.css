@@ -1,0 +1,4 @@
+.class_content_div .details_img_div img{
+    width: 100%;
+    object-fit: cover;
+}

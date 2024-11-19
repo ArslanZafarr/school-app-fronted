@@ -1,0 +1,28 @@
+.upload_file_area {
+    width: 100%;
+    height: 202px;
+    border: 1px dashed var(--lightblue);
+    border-radius: 7px;
+    background-color: var(--lighterblue);
+}
+.uploading_file_card .text_div{
+    position: relative;
+}
+.uploading_file_card .text_div .border_div{
+    border-bottom: 3px solid var(--orange);
+    height: 2px;
+    width: 250px;
+    position: absolute;
+    bottom: -9px;
+    left: -9px;
+}
+   
+
+.cursor_image {
+    cursor: pointer;
+
+}
+  
+  .file-upload-input {
+    display: none;
+  }

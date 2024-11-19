@@ -1,0 +1,16 @@
+.teacher_panel_vertical_bar_container{
+    width: 400px;
+    height: 90vh;
+    border-right: 1px solid var(--gray);
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.content_container{
+    width: 1520px;
+}
+
+.teacher_panel_searchbar_div{
+    border-bottom: 1px solid var(--gray);
+}

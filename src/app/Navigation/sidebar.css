@@ -1,0 +1,56 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 290px;
+  height: 100%;
+}
+
+/* Sidebar links */
+.sidebar a {
+  display: flex;
+  align-items: center;
+  color: var(--darkgray);
+  padding: 16px;
+  text-decoration: none;
+  border-radius: 11px;
+  height: 50px;
+  font-size: 18px;
+  width: 100%;
+}
+
+/* Active/current link */
+.sidebar .sidebar-item .selected {
+  background-color: var(--orange);
+  color: white !important;
+  border-radius: 11px;
+}
+
+.sidebar .sidebar-item a:hover {
+  background-color: var(--orange);
+  color: white !important;
+  border-radius: 11px;
+
+}
+
+/* Sidebar item to handle sub-links */
+.sidebar-submenu a {
+  color: var(--darkgray) !important;
+}
+
+.sidebar-submenu a.selected {
+  color: white !important;
+}
+
+.sidebar-submenu a {
+  color: var(--darkgray) !important;
+}
+
+.sidebar-submenu a.submenu_selected {
+  color: var(--orange) !important;
+  /* or your preferred color */
+}
+
+/* Ensure other sidebar link styles don't override the submenu styles */
+.sidebar-submenu a:hover {
+  color: var(--orange) !important;
+}

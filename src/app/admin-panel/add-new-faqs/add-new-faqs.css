@@ -1,0 +1,6 @@
+.add_new_faqs_input_height{
+    height: 56px;
+}
+.add_new_faqs_card input::placeholder, .add_new_faqs_card textarea::placeholder{
+    color: lightgray!important;
+}

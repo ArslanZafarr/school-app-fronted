@@ -1,0 +1,34 @@
+.search_input {
+    width: 600px;
+    padding: 11px 15px 11px 50px;
+    border-radius: 11px;
+    border: 1px solid var(--gray);
+}
+
+.search_input:focus {
+    /* width: 600px; */
+    padding: 11px 15px 11px 50px;
+    border-radius: 11px;
+}
+.search_input:active {
+    border: none!important;
+}
+.search_input_icon {
+    font-size: 25px;
+    top: 15px;
+    left: 13px;
+}
+
+.bell_icon {
+    font-size: 20px;
+}
+
+.Calendar_icon {
+    font-size: 20px;
+}
+
+.profile_image {
+    border: 1px solid var(--gray);
+    border-radius: 50%;
+
+}

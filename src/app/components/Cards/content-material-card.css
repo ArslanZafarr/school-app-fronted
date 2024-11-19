@@ -1,0 +1,14 @@
+.content_material_card {
+  width: 168px;
+  margin: 0 50px;
+  color: black;
+}
+
+.content_material_card a {
+  text-decoration: none;
+}
+
+.content_material_card p {
+  color: black;
+  text-decoration: none !important;
+}

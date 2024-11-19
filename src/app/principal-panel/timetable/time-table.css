@@ -1,0 +1,19 @@
+.timetable_right_bar_div{
+    width: 270px;
+}
+
+.calendar_div{
+    width: auto;
+
+}
+.react-calendar {
+    width: auto!important;
+    max-width: 100%;
+    background: white;
+    line-height: 1.125em;
+    border: none!important;
+}
+
+.calendar_div button {
+    color: black;
+}

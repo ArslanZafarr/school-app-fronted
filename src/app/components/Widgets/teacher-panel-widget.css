@@ -1,0 +1,5 @@
+.widget_card{
+    background-color: var(--orange);
+    color: white;
+    width: 250px;
+}

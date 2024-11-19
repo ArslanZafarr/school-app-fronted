@@ -1,0 +1,30 @@
+.start_class_div {
+    height: 205px;
+    border: 2px dashed #d1dbe8;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green_btn {
+    border: none;
+    background-color: #e4ffe7;
+    color: #00633a;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.jamu_btn{
+    border: none;
+    background-color: #f0e4ff;
+    color: #0f0381;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

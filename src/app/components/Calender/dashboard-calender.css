@@ -1,0 +1,15 @@
+.calendar_div{
+    width: 650px;
+
+}
+.react-calendar {
+    width: 650px!important;
+    max-width: 100%;
+    background: white;
+    line-height: 1.125em;
+    border: none!important;
+}
+
+.calendar_div button {
+    color: black;
+}

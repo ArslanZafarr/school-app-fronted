@@ -1,0 +1,17 @@
+.nav-underline .nav-link.active {
+    font-weight: 700;
+    color: var(--bs-nav-underline-link-active-color);
+    border-bottom-color: var(--orange);
+}
+
+.nav-underline .nav-link {
+    color: var(--darkgray);
+}
+
+.nav-underline .nav-link:hover {
+    border-bottom-color: var(--orange);
+}
+
+.tab_div .nav-underline{
+    border-bottom: 1px solid var(--gray);
+}

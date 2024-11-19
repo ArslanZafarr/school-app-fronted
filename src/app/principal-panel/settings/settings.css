@@ -1,0 +1,21 @@
+.settings_card_upload_photo_div {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.settings_upload_file_icon {
+    font-size: 40px;
+}
+
+.settings_upload_file_icon {
+    cursor: pointer;
+
+}
+  
+  .file-upload-input {
+    display: none;
+  }
+  

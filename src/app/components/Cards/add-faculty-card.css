@@ -1,0 +1,11 @@
+.orange-select {
+  border: 1px solid orange;
+  color: black;
+  padding: 5px 10px;
+  height: 56px;
+}
+
+.form-check-input {
+  height: 1em !important;
+
+}

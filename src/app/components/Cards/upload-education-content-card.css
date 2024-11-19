@@ -1,0 +1,15 @@
+.education_content_card{
+    width: 400px;
+}
+
+.education_content_card_body .due_date_para{
+    color: var(--orange);
+    font-size: 20px;
+}
+.education_content_image{
+    width: 40px;
+}
+.education_content_image .image_2{
+position: absolute;
+left: 19px;
+}

@@ -1,0 +1,21 @@
+.card_icon {
+    margin: 7px;
+    font-size: 17px;
+}
+
+.icon_div {
+    border: 1px solid var(--gray);
+    width: 110px;
+}
+
+.icon_main_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 70px;
+}
+
+.faqs_card .alert_icons_div{
+    width: 180px;
+}

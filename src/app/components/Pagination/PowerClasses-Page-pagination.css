@@ -1,0 +1,50 @@
+.power_classes_pagination_div nav{
+   width: 300px;
+}
+
+.icon_div {
+    border: 1px solid var(--gray);
+    width: 110px;
+}
+
+.icon_main_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 70px;
+}
+
+.power_classes_pagination_div .page-link{
+    border: none;
+    font-size: 22px; 
+    padding: 0 13px;
+}
+
+.power_classes_pagination_div .page-links {
+    border: none;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 41px;
+    text-decoration: none;
+}
+
+.power_classes_pagination_div .page-links:hover {
+    
+    border-radius: 50%;
+    background-color: #e8edf2;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 41px;
+    text-decoration: none;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}

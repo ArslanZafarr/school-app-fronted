@@ -1,0 +1,16 @@
+
+.sub_widget .icon_div{
+width: 25px;
+height: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.border_color
+.text_color{
+    color: var(--darkblue);
+}
+
+.total_students_widget_card{
+    width: 50%;
+}

@@ -1,0 +1,85 @@
+.table_1 {
+    text-align: center;
+    vertical-align: middle !important;
+}
+
+.table_1 thead {
+    height: 50px;
+    text-align: center;
+    vertical-align: middle !important;
+
+}
+
+.table_1 tbody tr {
+    height: 100px;
+}
+
+
+
+.payment-cell {
+    padding: 5px 10px;
+}
+
+.payment-cell.completed {
+    background-color: #ecfdf3;
+    color: #027a48;
+    border-radius: 15px;
+    padding-right: 11px;
+    padding-left: 11px;
+
+}
+
+.payment-cell.pending {
+    background-color: #fff2ea;
+    color: #f15046;
+    padding-right: 11px;
+    padding-left: 11px;
+    border-radius: 15px;
+
+}
+
+.table_icon {
+    margin: 7px;
+    font-size: 17px;
+}
+
+.icon_div {
+    border: 1px solid var(--gray);
+    width: 110px;
+}
+
+.icon_main_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    height: 70px;
+}
+
+.time_zone_pagination_div .page-links {
+    border: 0px solide black !important;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 41px;
+    text-decoration: none;
+}
+
+.time_zone_pagination_div .page-links:hover {
+    border: 0px solide black !important;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 41px;
+    text-decoration: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

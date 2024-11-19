@@ -1,0 +1,8 @@
+.modal-footer a {
+    width: fit-content !important;
+}
+
+.logout_btn span:hover {
+    color: white;
+}
+

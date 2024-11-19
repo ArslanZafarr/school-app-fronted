@@ -1,0 +1,27 @@
+.teacher_card_div .Card {
+    height: 100px;
+    width: 100%;
+    border: 1px solid var(--gray);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+
+.teacher_card_div .Card .icon_div {
+    height: 65px;
+    width: 59px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--darkgreen);
+    background: var(--lightgreen);
+    border-radius: 7px;
+    margin: 0px;
+    font-size: 30px;
+}
+
+.teacher_card_div .Card .text_div p{
+margin: 0px;
+}
