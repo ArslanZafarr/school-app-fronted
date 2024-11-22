@@ -75,7 +75,7 @@ const Page = () => {
     <div className="padding tablet_padding">
       <div className="announcement_heading_div">
         <h3 className="medium_font font_size_24">
-          Help us improve Siksha Matic
+          Help us improve Brainlux
         </h3>
         <p className="font_size_14 text_muted">
           We&apos;re always working to improve the app and your feedback is an

@@ -36,7 +36,7 @@ const Logout = () => {
                             </h1>
                         </div>
                         <div className="modal-body">
-                            <p className="font_size_18">You are about to log out of Siksha Matic. Are you sure?</p>
+                            <p className="font_size_18">You are about to log out of Brainlux. Are you sure?</p>
                         </div>
                         <div className="modal-footer border-0">
                             <Link href={'#'}

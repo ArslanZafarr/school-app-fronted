@@ -70,7 +70,7 @@ const ResponsiveAdminPanelSidebar = () => {
                     />
                     <div className='logo_div p-3'>
                         <Link href="#" className='d-flex justify-content-center align-items-center text-decoration-none text-dark'>
-                            <Image src='/assets/images/login-page/logo.png' width={30} height={30} alt="Logo" />
+                            <Image src="/assets/images/dashboard/logo-4.png" width={30} height={30} alt="Logo" />
                             {/* <h5 className='m-0 medium_font ps-2'>Siksha Matic</h5> */}
                         </Link>
                     </div>

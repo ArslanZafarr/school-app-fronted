@@ -97,19 +97,19 @@ const Page = () => {
           <div className="login_form_container d-flex flex-column justify-content-center align-items-center h-100 w-100">
             <div className="logo_div text-center">
               <Image
-                src="/assets/images/login-page/logo.png"
-                alt="Siksha Matic logo"
+                src="/assets/images/dashboard/logo-4.png"
+                alt="Brainlux logo"
                 width={40}
                 height={40}
               />
-              <h5 className="mt-2">Siksha Matic</h5>
+              <h5 className="mt-2">Brainlux</h5>
             </div>
             <div className="login_text text-center mb-2 mt-5 my-xxl-5 my-xl-5 my-lg-5 my-md-5">
               <h3 className="medium_font font_size_32 login_heading">Login</h3>
             </div>
             <div className="login_text text-center">
               <h3 className="bold_font font_size_22">
-                Welcome to Siksha Matic
+                Welcome to Brainlux
               </h3>
             </div>
             <div className="login_text text-center my-4">

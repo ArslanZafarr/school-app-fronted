@@ -196,7 +196,7 @@
 //               </div>
 //             </div>
 //           </div>
-         
+
 //         </div>
 //       )}
 //     </>
@@ -206,13 +206,13 @@
 // export default LogoutButton;
 
 
- {/* <div className="modal-backdrop fade show" onClick={handleCloseModal}></div> */}
+{/* <div className="modal-backdrop fade show" onClick={handleCloseModal}></div> */ }
 
 
 
 
 
- import { useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { useRouter } from "next/navigation"; // Import the useRouter hook
 import { logout } from "@/redux/features/auth/authSlice";
 import Image from "next/image";
@@ -278,7 +278,7 @@ const LogoutButton = ({ className }) => {
             </div>
             <div className="modal-body">
               <p className="font_size_18" style={{ textAlign: "start" }}>
-                You are about to log out of Siksha Matic. Are you sure?
+                You are about to log out of Brainlux . Are you sure?
               </p>
             </div>
             <div
